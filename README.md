@@ -14,5 +14,6 @@ Supported Network - Binance Smart Chain & Ethereum
 
 <b>Website </b> - https://burn.party/ </br>
 <b>Litepaper </b> - https://burn.party/litepaper </br>
+<b>BscScan Smart Contract</b> - https://bscscan.com/address/0x25d8aae869ae780cb53eca3cbfd16dc43511f640#code </br>
 <b>EG News Article </b> - https://news.elongate.cc/1579 </br>
 <b>Chainlink Collaboration</b> - https://invezz.com/news/2022/07/20/burn-party-integrates-chainlink-keepers-to-decentralise-token-burn-automation/ </br>
